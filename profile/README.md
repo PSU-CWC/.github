@@ -7,7 +7,7 @@ Welcome to the Penn State Wind Energy Club Github Page 🦁 We are developing so
 ### Overview
 Here you can find the links to all the repos and instructions on how to use them❗️
 <details> 
-	<summary>"Our Mission"</summary>
+	<summary>Learn about "Our Mission" 🚀</summary>
 	The purpose of The Wind Energy Club is to provide an opportunity for students interested in wind energy to:
 	<ol>
     <li>Learn about the wind energy industry</li>
@@ -22,7 +22,7 @@ Here you can find the links to all the repos and instructions on how to use them
 * [Turbine Data Monitor 📊](https://github.com/PSU-CWC/Turbine-Data-Monitor)
 * Wind Sensor Test 💨
 * RPM Sensor Test 🎡
-* Pitch Servo Test 🚀
+* Pitch Servo Test ✈️
 * Voltage Sensor Test 🔌
 * Current Sensor Test 🔋
   
