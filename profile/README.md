@@ -1,7 +1,7 @@
-# PSU Wind Energy Club
-Welcome to the Penn State Wind Energy Club Github Page 👋
+# PSU Wind Energy Club 🔵⚪️
+Welcome to the Penn State Wind Energy Club Github Page 🦁
 
-## Overview
+### Overview
 Here you can find the links to all the repos and instructions on how to use them❗️
 
 ### Contents
