@@ -2,8 +2,6 @@
 
 ![PSU Wind Energy Club Electronics Team Logo](https://github.com/PSU-CWC/.github/blob/main/WEC_Electronics_Team.jpeg?raw=true)
 
-https://github.com/PSU-CWC/.github/blob/main/WEC_Electronics_Team.jpeg
-
 Welcome to the Penn State Wind Energy Club Github Page 🦁
 
 ### Overview
