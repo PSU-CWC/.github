@@ -20,10 +20,10 @@ Here you can find the links to all the repos and instructions on how to use them
 ### Contents
 * [Control Code 🧠](https://github.com/PSU-CWC/Control) 
 * [Turbine Data Monitor 📊](https://github.com/PSU-CWC/Turbine-Data-Monitor)
-* Wind Sensor Test 💨
-* RPM Sensor Test 🎡
-* Pitch Servo Test ✈️
-* Voltage Sensor Test 🔌
+* [Wind Sensor Test 💨](https://github.com/PSU-CWC/Wind-Sensor-Test)
+* [RPM Sensor Test 🎡](https://github.com/PSU-CWC/RPM-Sensor-Test)
+* [Pitch Servo Test ✈️](https://github.com/PSU-CWC/Pitch-Servo-Test)
+* [Voltage Sensor Buck Test 🔌](https://github.com/PSU-CWC/Voltage-Sensor-Buck-Test)
 * Current Sensor Test 🔋
   
 ---
