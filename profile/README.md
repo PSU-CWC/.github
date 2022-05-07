@@ -7,7 +7,7 @@ Welcome to the Penn State Wind Energy Club Github Page 🦁 We are developing so
 ### Overview
 Here you can find the links to all the repos and instructions on how to use them❗️
 <details> 
-	<summary>Learn about "Our Mission" 🚀</summary>
+	<summary>Click to Learn about "Our Mission" 🚀</summary>
 	The purpose of The Wind Energy Club is to provide an opportunity for students interested in wind energy to:
 	<ol>
     <li>Learn about the wind energy industry</li>
